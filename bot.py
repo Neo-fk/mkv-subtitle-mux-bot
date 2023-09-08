@@ -2,7 +2,7 @@ import os
 import subprocess
 from telegram.ext import Updater, CommandHandler, ConversationHandler, MessageHandler, Filters
 
-BOT_TOKEN = ''  #enter your telegran bot token here
+BOT_TOKEN = '6328374317:AAHkCzq47FK252GeJ_Uf1HNxRut24GPKpoI'  #enter your telegran bot token here
 ALLOWED_USER_IDS = []  #allowed telegram userids to intract with the bot
 
 added_subtitle_name = 'sub2'  #this will show as the name for the new subtitle added in the player
